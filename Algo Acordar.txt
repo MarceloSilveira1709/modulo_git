@@ -1,0 +1,13 @@
+Inicio
+
+1- Abrir os olhos
+2-Descer da cama
+3-Caminhar até o banheiro
+4-Abrir a torneira
+5-Lavar o rosto.
+6-Pegar a escova dentes
+7-Pegar a pasta 
+8-Passar a pasta na escova
+9-Escovar os dentes
+
+Fimalgoritmo
